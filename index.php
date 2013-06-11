@@ -14,6 +14,7 @@
 <body>
 
 <button id="GetSettings">Get TinyG Settings</button>
+<button id="ShowHelp">Show Help Screen</button>
 <p>
 <label for="spinner">Select a value:</label>
 <input id="spinner" name="value" />

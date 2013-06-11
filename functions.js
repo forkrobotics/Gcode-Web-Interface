@@ -19,6 +19,13 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
+	$("#ShowHelp").button()
+		.click(function() {
+			$("#Results").load("writeread.php",{gcode:"$h"});
+	});
+});
+
+$(document).ready(function() {
 	$("#SendCommand").button()
 		.click(function() {
 			$("#Results").load("writeread.php",{gcode:$("#CommandInput").val()});

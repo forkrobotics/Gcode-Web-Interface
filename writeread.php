@@ -38,7 +38,6 @@
 		}
 	}
 
-
 	$serial->deviceClose();
 	if ($theResult == NULL) print "nothing here";
 	print "<pre>";
