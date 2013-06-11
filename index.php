@@ -21,7 +21,7 @@
 
 <button id="Xplus">X+</button>
 <button id="Xminus">X-</button>
-<button id="Xplus">Y+</button>
+<button id="Yplus">Y+</button>
 <button id="Yminus">Y-</button>
 <button id="Zplus">Z+</button>
 <button id="Zminus">Z-</button>
